@@ -1,8 +1,8 @@
 ---
 title: "Panduan Skincare Cowok (dan Cewek) yang Benar"
 date: 2025-05-25
-summary: "Di sini saya bakal ngebahas dasar-dasar skincare buat pemula, terutama cowok tapi cewek juga bisa kok."
-tags: ["self improvement", "skincare"]
+summary: "Di sini saya bakal ngebahas dasar-dasar skincare buat pemula yang hanya ngerti cara cuci muka, terutama bagi cowok tapi cewek juga bisa."
+tags: [”self improvement”, "skincare"]
 ---
 
 Gue ngerti banget rasanya punya wajah yang “kurang sempurna”. Dari SMP sampai kuliah bahkan saat udah kerja pun jerawat (dan bopeng) ini masih menghantui gue. Bayangin setiap hari liat cermin, kepikiran mulu pengen kulit bagus, tapi bingung harus mulai dari mana.
@@ -85,18 +85,13 @@ Nah, yang termasuk exfoliant kimia itu ada beberapa jenis, tapi lu cukup pilih s
 - **Retinol/Retinoid**
     
     Secara teknis retinol bukan exfoliant, tapi retinol bisa mempercepat pergantian sel kulit yang hasilnya mirip exfoliant. Retinol cocok buat yang pengen awet muda, ngilangin jerawat, dan bekasnya.
+    
 
-Jangan lupa kalau exfoliant itu kebanyakan adalah zat asam. Dan kebanyakan atau keseringan bisa membuat iritasi ya.
+Dari sini kamu sadar ya kalau zat seperti salicylic acid itu jatuhnya ke dalam exfoliant. Jangan lupa kalau semua exfoliant kimia itu pada dasarnya adalah zat asam, dan penggunaan yang terlalu sering bisa membuat iritasi.
 
-Kalau masih bingung cari produknya kayak gimana, tinggal tulis saja AHA atau BHA gitu di pencarian marketplace. Tapi jangan salah pilih produk “peeling” ya. Karena zat-zat asam ini jika dalam konsentrasi besar juga bisa digunakan buat peeling. Peeling itu proses mengelupas kulit yang intensif. Lakukan peeling yang terkontrol di klinik saja.
+Oya, kalau bingung cari produknya kayak gimana, tinggal tulis saja AHA atau BHA gitu di pencarian marketplace. Tapi jangan salah pilih produk “peeling” ya. Karena zat-zat asam ini jika dalam konsentrasi besar juga bisa digunakan buat peeling. Peeling itu proses intensif yang bisa bikin iritasi dan mengelupas kulit. Lakukan peeling yang terkontrol di klinik saja.
 
-{{< alert >}}
-
-**Peringatan!** 
-
-{{< /alert >}}
-
-## Rutinitas Skincare
+## Membangun Rutinitas
 
 Sekarang lu udah tahu basicnya. Terus gimana cara terapinnya ke keseharian? Ini contoh rutinitas yang cocok buat gue:
 
@@ -123,6 +118,6 @@ Kalau wajah lu sensitif, pakai exfoliant setelah moisturizer buat ngurangin pote
 
 ---
 
-Sudah. Itu saja panduan skincarenya. Saya mungkin akan menulis panduan dan artikel lebih lanjut untuk masalah spesifik skincare.
+Sudah. Itu saja panduan skincarenya. Saya juga akan menulis artikel lebih lanjut untuk masalah spesifik skincare.
 
 Peace out.
