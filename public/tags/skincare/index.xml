@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skincare on WOMPA</title>
+    <link>http://localhost:1313/tags/skincare/</link>
+    <description>Recent content in Skincare on WOMPA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <managingEditor>wompa@duck.com (Mr. Wompa)</managingEditor>
+    <webMaster>wompa@duck.com (Mr. Wompa)</webMaster>
+    <copyright>Kopi benar?</copyright>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/skincare/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Panduan Skincare Cowok (dan Cewek) yang Benar</title>
+      <link>http://localhost:1313/posts/panduan-skincare-cowok-dan-cewek-yang-benar/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <author>wompa@duck.com (Mr. Wompa)</author>
+      <guid>http://localhost:1313/posts/panduan-skincare-cowok-dan-cewek-yang-benar/</guid>
+      <description>Di sini saya bakal ngebahas dasar-dasar skincare buat pemula, terutama cowok tapi cewek juga bisa kok.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/panduan-skincare-cowok-dan-cewek-yang-benar/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
